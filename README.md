@@ -3,6 +3,8 @@ Click the button below to open my Streamlit app:
 <a href="https://personalized-book-recommender-malleshwar.streamlit.app" target="_blank">
     <img src="https://img.shields.io/badge/Open%20App-Streamlit-orange?style=for-the-badge&logo=streamlit" alt="Open App">
 </a>
+
+
 # Personalized-Book-Recommender
 ![Personalized_Book_Recommender](https://github.com/user-attachments/assets/c0692287-918a-450f-8ade-fef14acf00ee)
 # Recommender System 
