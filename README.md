@@ -1,4 +1,4 @@
-Click the button below to open my Streamlit app:
+# Click the button below to open my Streamlit app:
 
 <div align="center">
 <a href="https://personalized-book-recommender-malleshwar.streamlit.app" target="_blank">
