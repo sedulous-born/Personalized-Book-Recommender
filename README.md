@@ -1,8 +1,10 @@
 Click the button below to open my Streamlit app:
 
+<div align="center">
 <a href="https://personalized-book-recommender-malleshwar.streamlit.app" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20App-Streamlit-orange?style=for-the-badge&logo=streamlit" alt="Open App">
+    <img src="https://img.shields.io/badge/Open%20App-Streamlit-orange?style=for-the-badge&logo=streamlit" alt="Open App" style="height:100px;width:300px;">
 </a>
+</div>
 
 
 # Personalized-Book-Recommender
